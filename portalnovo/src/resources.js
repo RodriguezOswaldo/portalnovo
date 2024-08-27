@@ -31,6 +31,17 @@ let characteristics = [
                     ],
             }
             ],
+            type: 'Great',
+            pnj: [
+                {
+                name: 'Findme-and-below',
+                location: '[3,-1]',
+                resources: [
+                    { name: 'Gelatina Azulada', quantity: 80},
+                    { name: 'Gelatina de Menta', quantity: 30},
+                    ],
+            }
+            ],
         },
     // Add 'Great' and 'Powerful' scrolls similarly
     ]
