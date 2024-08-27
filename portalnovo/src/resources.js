@@ -41,3 +41,14 @@ const characteristics = [
 },
 // Define other characteristics similarly
 ];
+
+let reset_misions = [
+    {
+        name: 'flip flop'[
+            {
+                location:'[-56,22]', area:'en las Llanuras herbosas',
+                items: ['dragopavos blanco', 'dragopavo pelirrojo']
+        }
+    ]
+    }
+]
