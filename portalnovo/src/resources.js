@@ -56,6 +56,13 @@ let reset_misions = [
                 location:'[-56,22]', area:'en las Llanuras herbosas',
                 items: ['dragopavos blanco', 'dragopavo pelirrojo']
         }
-    ]
+    ],
+        name: 'Polka Merer'[
+            {
+                location:'[-54,5] ', area:'El Pueblo de los Ganaderos',
+                items: ['Ash Abrevadero', 'Ash Fulminante', 'Ash Acariciadora', 'ash tabla','ash alimentador']
+        }
+    ],
+
     }
 ]
