@@ -81,6 +81,12 @@ let reset_misions_resources = [
                 items: ['x1 Wheat Flour', 'x1 Barley Flour', 'x1Rye Fluor' ,'1x Oats Flour', '1x Malt Flour' ,'1x Hop Flour' ,'1x White Flour' ,'x1 Minx Flour', '1x Peasent Flour' ,'1x Wheatmeal' ,'1x Flax Flour', '1x Xavier el Panadero Flour']
         }
     ],
+        name: 'Paulina Panela'[
+            {
+                location:'[-55,4] ', area:'las Llanuras herbosas',
+                items: ['mini dj']
+        }
+    ],
 
     }
 ]
