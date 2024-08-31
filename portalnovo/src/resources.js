@@ -34,11 +34,12 @@ let characteristics = [
             type: 'Great',
             pnj: [
                 {
-                name: 'Findme-and-below',
-                location: '[3,-1]',
+                name: 'Ness Leh',
+                location: '[3,1]',
                 resources: [
-                    { name: 'Gelatina Azulada', quantity: 80},
-                    { name: 'Gelatina de Menta', quantity: 30},
+                    { name: 'Gelatina Azulada', quantity: 60},
+                    { name: 'Gelatina de Menta', quantity: 20},
+                    { name: 'Gelatina de Fresa', quantity: 25}
                     ],
             }
             ],
