@@ -43,8 +43,197 @@ let characteristics = [
                     ],
             }
             ],
+            type: 'Powerfull',
+            pnj: [
+                {
+                name: 'Lu Pachups',
+                location: '[0,-2]',
+                resources: [
+                    { name: 'Gelatina Azulada', quantity: 60},
+                    { name: 'Gelatina de Menta', quantity: 25},
+                    { name: 'Gelatina de Fresa', quantity: 30},
+                    { name: 'Gelatina Azulada Real', quantity: 1},
+                    { name: 'Gelatina Fresa Real', quantity: 1},
+                    ],
+            }
+            ],
         },
-    // Add 'Great' and 'Powerful' scrolls similarly
+    ],
+        name: 'Wisdom',
+        scrolls: [
+            {
+            type: 'Small',
+            pnj: [
+                {
+                name: 'Teha Chicks',
+                location: '[10,3]',
+                resources: [
+                    { name: 'Seta', quantity: 100}
+                    ],
+            },
+            {
+                name: 'Zeurg',
+                location: '[8,2]',
+                resources: [
+                    { name: 'Cuerno de Jalató', quantity: 100}
+                    ],
+            }
+            ],
+            type: 'Medium',
+            pnj: [
+                {
+                name: 'Jimmy Rasta',
+                location: '[10,6]',
+                resources: [
+                    { name: 'Seta', quantity: 80},
+                    { name: 'Semilla de Girasol Salvaje', quantity: 60},
+                    ],
+            }
+            ],
+            type: 'Great',
+            pnj: [
+                {
+                name: 'Loh doh',
+                location: '[1,1]',
+                resources: [
+                    { name: 'Seta', quantity: 90},
+                    { name: 'Semilla de Girasol Salvaje', quantity: 70},
+                    { name: 'Semillas de Cañamo', quantity: 40}
+                    ],
+            }
+            ],
+            type: 'Powerfull',
+            pnj: [
+                {
+                name: 'Trimpize de Askurias',
+                location: '[-2,14]',
+                resources: [
+                    { name: 'Seta', quantity: 90},
+                    { name: 'Semilla de Girasol Salvaje', quantity: 75},
+                    { name: 'Semillas de Cañamo', quantity: 60},
+                    { name: ' Ala de Mosquito', quantity:200}
+                    ],
+            }
+            ],
+        },
+    ],
+        name: 'Strenght',
+        scrolls: [
+            {
+            type: 'Small',
+            pnj: [
+                {
+                name: 'Ronsha',
+                location: '[1,-2]',
+                resources: [
+                    { name: 'Pincho de Prespic', quantity: 80}
+                    ],
+            },
+            {
+                name: 'Rish Claymore',
+                location: '[1,3]',
+                resources: [
+                    { name: 'Espina del Champi Champ', quantity: 100}
+                    ],
+            },
+            {
+                name: 'Keck Demoras',
+                location: '[2,0]',
+                resources: [
+                    { name: ' Piel de Larva Azul', quantity: 100},
+                    ],
+            }
+            ],
+            type: 'Medium',
+            pnj: [
+                {
+                name: 'Otho Laringo',
+                location: '[-2,-3]',
+                resources: [
+                    { name: 'Pincho de Prespic', quantity: 70},
+                    { name: 'Pinza del Cangrejo', quantity: 70},
+                    ],
+            }
+            ],
+            type: 'Great',
+            pnj: [
+                {
+                name: 'Pork Ethebas',
+                location: '[8,-2]',
+                resources: [
+                    { name: 'Pincho de Prespic', quantity: 70},
+                    { name: 'Pinza del Cangrejo', quantity: 75},
+                    { name: 'Costilletas de Rib', quantity: 40}
+                    ],
+            }
+            ],
+            type: 'Powerfull',
+            pnj: [
+                {
+                    name: 'Otho Laringo',
+                    location: '[-2,-3]',
+                    resources: [
+                        { name: 'Pincho de Prespic', quantity: 75},
+                        { name: 'Pinza del Cangrejo', quantity: 75},
+                        { name: 'Costilletas de Rib', quantity: 45},
+                        { name: 'Silex', quantity: 30},
+                        ],
+            }
+            ],
+        },
+    ],
+        name: 'Intelligence',
+        scrolls: [
+            {
+            type: 'Small',
+            pnj: [
+                {
+                name: 'Elya Wood',
+                location: '[7,1]',
+                resources: [
+                    { name: 'Cinturón de Suerte (4x cuero de jalatin negro + 2x cobre, oficio zapatero)', quantity: 100}
+                    ],
+            },
+            ],
+            type: 'Medium',
+            pnj: [
+                {
+                name: 'Eowine Frasca',
+                location: '[0,5]',
+                resources: [
+                    { name: 'Piel de Larva Azul', quantity: 50},
+                    { name: 'Piel de Larva Naranja', quantity: 40},
+                    { name: 'Piel de Larva Verd', quantity: 40},
+                    ],
+            }
+            //Finish after this
+            ],
+            type: 'Great',
+            pnj: [
+                {
+                name: 'Pork Ethebas',
+                location: '[8,-2]',
+                resources: [
+                    { name: 'Pincho de Prespic', quantity: 70},
+                    { name: 'Pinza del Cangrejo', quantity: 75},
+                    { name: 'Costilletas de Rib', quantity: 40}
+                    ],
+            }
+            ],
+            type: 'Powerfull',
+            pnj: [
+                {
+                    name: 'Otho Laringo',
+                    location: '[-2,-3]',
+                    resources: [
+                        { name: 'Pincho de Prespic', quantity: 75},
+                        { name: 'Pinza del Cangrejo', quantity: 75},
+                        { name: 'Costilletas de Rib', quantity: 45},
+                        { name: 'Silex', quantity: 30},
+                        ],
+            }
+            ],
+        },
     ]
 },
 // Define other characteristics similarly
