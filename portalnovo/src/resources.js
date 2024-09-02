@@ -297,37 +297,37 @@ let characteristics = [
             ],
         },
     ],
-        name: 'Suerte',
+        name: 'Agility',
         scrolls: [
             {
             type: 'Small',
             pnj: [
                 {
-                name: 'Ali Akel',
-                location: '[2,-2]',
+                name: 'Edrige Valling',
+                location: '[0,3]',
                 resources: [
-                    { name: 'Pata de Arakna', quantity: 80}
-                    ],
-            },
-            ],
-            type: 'Small',
-            pnj: [
-                {
-                name: 'Azra Lazarus',
-                location: '[0,2]',
-                resources: [
-                    { name: '1 Amuleto del Leñador (Amuleto del Leñador lo puedes conseguir cambiando 100 Ala de Mosquito en (4, 8))', quantity: 1}
+                    { name: 'Anillo Agilesco (1x hierro + 1x baba de jalató, oficio joyero)', quantity: 100}
                     ],
             },
             ],
             type: 'Medium',
             pnj: [
                 {
-                name: 'Kusen Trengón',
-                location: '[4,8]',
+                name: 'Mardock',
+                location: '[2,17]',
                 resources: [
-                    { name: 'Pata de Arakna', quantity: 90},
-                    { name: 'Trebol de 5 hojas', quantity: 65},
+                    { name: 'Bellota', quantity: 70},
+                    ]
+            }
+            ],
+            type: 'Medium',
+            pnj: [
+                {
+                name: 'Max',
+                location: '[8,-2]',
+                resources: [
+                    { name: 'Bellota', quantity: 70},
+                    { name: 'Lengua de Diente de León Diabólico', quantity: 70},
                     ]
             }
             ],
@@ -335,24 +335,24 @@ let characteristics = [
             pnj: [
                 {
                 name: 'Asistente de Otomai',
-                location: '[-2,-4]',
+                location: '[3,4]',
                 resources: [
-                    { name: 'Pata de Arakna', quantity: 75},
-                    { name: 'Trebol de 5 hojas', quantity: 60},
-                    { name: 'Uña del Cabalgador de Karne', quantity: 40}
+                    { name: 'Bellota', quantity: 75},
+                    { name: 'Lengua de Diente de León Diabólico', quantity: 75},
+                    { name: 'Pétalo de Rosa Demoníaca', quantity: 70}
                     ],
             }
             ],
             type: 'Powerful',
             pnj: [
                 {
-                    name: 'Bolzano Viejamancha',
-                    location: '[2,5]',
+                    name: 'Lee Aibig',
+                    location: '[3,4]',
                     resources: [
-                        { name: 'Pata de Arakna', quantity: 60},
-                        { name: 'Trebol de 5 hojas', quantity: 55},
-                        { name: 'Uña del Cabalgador de Karne', quantity: 40},
-                        { name: 'Cola del Medilubo', quantity: 15},
+                        { name: 'Bellota', quantity: 80},
+                        { name: 'Lengua de Diente de León Diabólico', quantity: 80},
+                        { name: 'Pétalo de Rosa Demoníaca', quantity: 80},
+                        { name: 'Esporma del Champi Champ', quantity: 20},
                         ],
             }
             ],
