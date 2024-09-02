@@ -203,38 +203,161 @@ let characteristics = [
                 resources: [
                     { name: 'Piel de Larva Azul', quantity: 50},
                     { name: 'Piel de Larva Naranja', quantity: 40},
-                    { name: 'Piel de Larva Verd', quantity: 40},
+                    { name: 'Piel de Larva Verde', quantity: 40},
                     ],
             }
-            //Finish after this
             ],
             type: 'Great',
             pnj: [
                 {
-                name: 'Pork Ethebas',
-                location: '[8,-2]',
+                name: 'Drogho Cralasar',
+                location: '[5,4]',
                 resources: [
-                    { name: 'Pincho de Prespic', quantity: 70},
-                    { name: 'Pinza del Cangrejo', quantity: 75},
-                    { name: 'Costilletas de Rib', quantity: 40}
+                    { name: 'Piel de Larva Azul', quantity: 45},
+                    { name: 'Piel de Larva Naranja', quantity: 45},
+                    { name: 'Piel de Larva Verde', quantity: 45},
+                    { name: 'Ala del Tofu Maléfico', quantity: 30},
                     ],
-            }
+                }
             ],
-            type: 'Powerfull',
+            type: 'Powerful',
             pnj: [
                 {
-                    name: 'Otho Laringo',
-                    location: '[-2,-3]',
+                    name: 'Ozen El Sabio',
+                    location: '[2,2]',
                     resources: [
-                        { name: 'Pincho de Prespic', quantity: 75},
-                        { name: 'Pinza del Cangrejo', quantity: 75},
-                        { name: 'Costilletas de Rib', quantity: 45},
-                        { name: 'Silex', quantity: 30},
+                        { name: 'Piel de Larva Azul', quantity: 60},
+                        { name: 'Piel de Larva Naranja', quantity: 50},
+                        { name: 'Piel de Larva Verde', quantity: 50},
+                        { name: 'Ala del Tofu Maléfico', quantity: 40},
+                        { name: 'Sangre del Vampiro', quantity: 30},
                         ],
             }
             ],
         },
-    ]
+    ],
+        name: 'Suerte',
+        scrolls: [
+            {
+            type: 'Small',
+            pnj: [
+                {
+                name: 'Ali Akel',
+                location: '[2,-2]',
+                resources: [
+                    { name: 'Pata de Arakna', quantity: 80}
+                    ],
+            },
+            ],
+            type: 'Small',
+            pnj: [
+                {
+                name: 'Azra Lazarus',
+                location: '[0,2]',
+                resources: [
+                    { name: '1 Amuleto del Leñador (Amuleto del Leñador lo puedes conseguir cambiando 100 Ala de Mosquito en (4, 8))', quantity: 1}
+                    ],
+            },
+            ],
+            type: 'Medium',
+            pnj: [
+                {
+                name: 'Kusen Trengón',
+                location: '[4,8]',
+                resources: [
+                    { name: 'Pata de Arakna', quantity: 90},
+                    { name: 'Trebol de 5 hojas', quantity: 65},
+                    ]
+            }
+            ],
+            type: 'Great',
+            pnj: [
+                {
+                name: 'Asistente de Otomai',
+                location: '[-2,-4]',
+                resources: [
+                    { name: 'Pata de Arakna', quantity: 75},
+                    { name: 'Trebol de 5 hojas', quantity: 60},
+                    { name: 'Uña del Cabalgador de Karne', quantity: 40}
+                    ],
+            }
+            ],
+            type: 'Powerful',
+            pnj: [
+                {
+                    name: 'Bolzano Viejamancha',
+                    location: '[2,5]',
+                    resources: [
+                        { name: 'Pata de Arakna', quantity: 60},
+                        { name: 'Trebol de 5 hojas', quantity: 55},
+                        { name: 'Uña del Cabalgador de Karne', quantity: 40},
+                        { name: 'Cola del Medilubo', quantity: 15},
+                        ],
+            }
+            ],
+        },
+    ],
+        name: 'Suerte',
+        scrolls: [
+            {
+            type: 'Small',
+            pnj: [
+                {
+                name: 'Ali Akel',
+                location: '[2,-2]',
+                resources: [
+                    { name: 'Pata de Arakna', quantity: 80}
+                    ],
+            },
+            ],
+            type: 'Small',
+            pnj: [
+                {
+                name: 'Azra Lazarus',
+                location: '[0,2]',
+                resources: [
+                    { name: '1 Amuleto del Leñador (Amuleto del Leñador lo puedes conseguir cambiando 100 Ala de Mosquito en (4, 8))', quantity: 1}
+                    ],
+            },
+            ],
+            type: 'Medium',
+            pnj: [
+                {
+                name: 'Kusen Trengón',
+                location: '[4,8]',
+                resources: [
+                    { name: 'Pata de Arakna', quantity: 90},
+                    { name: 'Trebol de 5 hojas', quantity: 65},
+                    ]
+            }
+            ],
+            type: 'Great',
+            pnj: [
+                {
+                name: 'Asistente de Otomai',
+                location: '[-2,-4]',
+                resources: [
+                    { name: 'Pata de Arakna', quantity: 75},
+                    { name: 'Trebol de 5 hojas', quantity: 60},
+                    { name: 'Uña del Cabalgador de Karne', quantity: 40}
+                    ],
+            }
+            ],
+            type: 'Powerful',
+            pnj: [
+                {
+                    name: 'Bolzano Viejamancha',
+                    location: '[2,5]',
+                    resources: [
+                        { name: 'Pata de Arakna', quantity: 60},
+                        { name: 'Trebol de 5 hojas', quantity: 55},
+                        { name: 'Uña del Cabalgador de Karne', quantity: 40},
+                        { name: 'Cola del Medilubo', quantity: 15},
+                        ],
+            }
+            ],
+        },
+    ],
 },
 // Define other characteristics similarly
 ];
