@@ -357,6 +357,7 @@ let characteristics = [
             }
             ],
         },
+        
     ],
 },
 // Define other characteristics similarly
