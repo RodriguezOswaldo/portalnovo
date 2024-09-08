@@ -18,6 +18,7 @@ let characteristics = [
                 resources: [
                     { name: 'Colmillo de Jabalí', quantity: 100}
                     ],
+                    
             }
             ],
             type: 'Medium',
