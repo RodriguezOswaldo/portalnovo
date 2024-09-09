@@ -12,13 +12,13 @@ let characteristics = [
                     { name: 'Gelatina Azulada', quantity: 100}
                     ],
             },
+            
             {
                 name: 'Hugo Bello',
                 location: '[12,5]',
                 resources: [
                     { name: 'Colmillo de Jabalí', quantity: 100}
                     ],
-                    
             }
             ],
             type: 'Medium',
