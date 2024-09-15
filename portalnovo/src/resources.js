@@ -21,8 +21,6 @@ let characteristics = [
             }
             ],
             type: 'Medium',
-
-            
             pnj: [
                 {
                 name: 'Quincy Prais',
